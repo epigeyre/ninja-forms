@@ -1,7 +1,7 @@
 # This file is distributed under the same license as the Ninja Forms package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-08-04 10:42+0200\n"
+"PO-Revision-Date: 2015-08-04 11:06+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -9,7 +9,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "Project-Id-Version: Ninja Forms\n"
 "POT-Creation-Date: \n"
-"Last-Translator: jean-francois lefebvre <jeff@deepbass.net>\n"
+"Last-Translator: Etienne Pigeyre\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 
